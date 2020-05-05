@@ -8,12 +8,13 @@ import (
 	"strings"
 )
 
+// Index creates index html files of liturgical books and services
 func Index(site string) error {
 	return nil
 }
 
 /**
-Returns all files recursively in the dir that have the specified file extension
+FileMatcher returns all files recursively in the dir that have the specified file extension
 without a dot, and match any one of the supplied expressions.
 The expressions are regular expressions that will match the name of a file, but
 without the extension.  The extension will be automatically added to each expression.
