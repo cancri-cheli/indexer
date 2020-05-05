@@ -13,13 +13,11 @@ func Index(site string) error {
 	return nil
 }
 
-/**
-FileMatcher returns all files recursively in the dir that have the specified file extension
-without a dot, and match any one of the supplied expressions.
-The expressions are regular expressions that will match the name of a file, but
-without the extension.  The extension will be automatically added to each expression.
-The expressions may be nil, in which case all file patterns will match.
-*/
+// FileMatcher returns all files recursively in the dir that have the specified file extension
+//without a dot, and match any one of the supplied expressions.
+//The expressions are regular expressions that will match the name of a file, but
+//without the extension.  The extension will be automatically added to each expression.
+//The expressions may be nil, in which case all file patterns will match.
 func FileMatcher(dir, extension string, expressions []string) ([]string, error) {
 	var result []string
 	extensionPattern := "\\." + extension
@@ -47,6 +45,8 @@ func FileMatcher(dir, extension string, expressions []string) ([]string, error) 
 		})
 	return result, err
 }
+
+// ResolvePath checks for leading tilde and converts to full path
 func ResolvePath(path string) string {
 	usr, _ := user.Current()
 	dir := usr.HomeDir
