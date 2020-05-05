@@ -1,0 +1,582 @@
+{
+  "20190205": [
+    {
+      "prevText": "Vespers - Alternative Commemoration",
+      "altText": "Vespers - For St Photios"
+    }
+  ],
+  "20190206": [
+    {
+      "prevText": "Matins - Alternative Commemoration",
+      "altText": "Matins - For St Photios"
+    },
+    {
+      "prevText": "Liturgy - Alternative Commemoration",
+      "altText": "Liturgy - For St Photios"
+    },
+    {
+      "prevText": "Liturgy - Alternative Variable Parts",
+      "altText": "Liturgy Variable Parts - For St Photios"
+    }
+  ],
+  "20190218": [
+    {
+      "prevText": "Vespers - Alternative Commemoration",
+      "altText": "Vespers - for St Philothea"
+    },
+    {
+      "prevText": "Vespers - Alternative Full (Lity and Loaves)",
+      "altText": "Full Vespers - for St Philothea"
+    }
+  ],
+  "20190219": [
+    {
+      "prevText": "Matins - Alternative Commemoration",
+      "altText": "Matins for St. Philothea"
+    },
+    {
+      "prevText": "Liturgy - Alternative Commemoration",
+      "altText": "Liturgy for St. Philothea"
+    },
+    {
+      "prevText": "Liturgy - Alternative Variable Parts",
+      "altText": "Liturgy Variable Parts - for St. Philothea"
+    }
+  ],
+  "20190225": [
+    {
+      "prevText": "Vespers - Alternative Commemoration",
+      "altText": "Vespers - For St. Photini"
+    }
+  ],
+  "20190226": [
+    {
+      "prevText": "Matins - Alternative Commemoration",
+      "altText": "Matins - For St. Photini"
+    },
+    {
+      "prevText": "Liturgy - Alternative Commemoration",
+      "altText": "Liturgy - For St. Photini"
+    }
+  ],
+  "20190302": [
+    {
+      "prevText": "Matins - Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - Full (Psalter, Full Canon)"
+    }
+  ],
+  "20190317": [
+    {
+      "prevText": "Vespers - Alt. Version 8",
+      "altText": "Vespers and Procession of Icons"
+    }
+  ],
+  "20190323": [
+    {
+      "prevText": "Matins - Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - Full (Psalter / Canon)"
+    }
+  ],
+  "20190330": [
+    {
+      "prevText": "Matins - Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - Full (Psalter / Canon)"
+    }
+  ],
+  "20190331": [],
+  "20190406": [
+    {
+      "prevText": "Matins - Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - Full (Psalter / Canon)"
+    }
+  ],
+  "20190410": [],
+  "20190411": [
+    {
+      "prevText": "Matins - Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - Full (Psalter / Canon)"
+    }
+  ],
+  "20190413": [
+    {
+      "prevText": "Matins",
+      "altText": "Matins (without Akathist)"
+    },
+    {
+      "prevText": "Matins - Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - (Psalter / Canon / Akathist)"
+    }
+  ],
+  "20190428": [
+    {
+      "prevText": "Matins",
+      "altText": "Matins - typical parish style"
+    },
+    {
+      "prevText": "Matins - Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - Full Canon"
+    },
+    {
+      "prevText": "Vespers",
+      "altText": "Vespers - Agape / St George"
+    },
+    {
+      "prevText": "Vespers - Full (Lity and Loaves)",
+      "altText": "Vespers - Agape / St George (Full)"
+    }
+  ],
+  "20190429": [
+    {
+      "prevText": "Matins",
+      "altText": "Matins - Pascha / St George"
+    },
+    {
+      "prevText": "Matins - Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - Pascha / St George (Full)"
+    },
+    {
+      "prevText": "Vespers",
+      "altText": "Vespers - Pascha / St Mark"
+    },
+    {
+      "prevText": "Vespers - Alternative Full (Lity and Loaves)",
+      "altText": "Vespers - Pascha / Sts Raphael, Nicholas & Irene (Full)"
+    }
+  ],
+  "20190430": [
+    {
+      "prevText": "Matins",
+      "altText": "Matins - Pascha / St Mark"
+    },
+    {
+      "prevText": "Matins - Alternative Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - Pascha / Sts Raphael, Nicholas & Irene (Full)"
+    },
+    {
+      "prevText": "Divine Liturgy",
+      "altText": "Divine Liturgy - St Mark"
+    },
+    {
+      "prevText": "Liturgy - Variable Parts",
+      "altText": "Liturgy - Variable Parts - St Mark"
+    },
+    {
+      "prevText": "Liturgy - Alternative Commemoration",
+      "altText": "Liturgy - Sts Raphael, Nicholas & Irene"
+    }
+  ],
+  "20190501": [
+    {
+      "prevText": "Vespers",
+      "altText": "Vespers - Pascha / St Athanasios"
+    }
+  ],
+  "20190502": [
+    {
+      "prevText": "Midnight Office",
+      "altText": "Midnight Office - Pascha / St Athanasios"
+    },
+    {
+      "prevText": "Matins",
+      "altText": "Matins - Pascha / St Athanasios"
+    },
+    {
+      "prevText": "Matins - Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - Full - Pascha / St Athanasios"
+    },
+    {
+      "prevText": "Vespers",
+      "altText": "Vespers - Pascha / Life-bearing Spring"
+    }
+  ],
+  "20190503": [
+    {
+      "prevText": "Matins",
+      "altText": "Matins - Pascha / Life-bearing Spring"
+    },
+    {
+      "prevText": "Matins - Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - Full - Pascha / Life-bearing Spring"
+    }
+  ],
+  "20190604": [
+    {
+      "prevText": "Vespers",
+      "altText": "Vespers - Leave-taking of Pascha"
+    }
+  ],
+  "20190605": [
+    {
+      "prevText": "Matins",
+      "altText": "Matins - Leave-taking of Pascha"
+    },
+    {
+      "prevText": "Matins - Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - Full - Leave-taking of Pascha"
+    },
+    {
+      "prevText": "Ninth Hour",
+      "altText": "Ninth Hour - Leave-taking of Pascha"
+    },
+    {
+      "prevText": "Vespers",
+      "altText": "Vespers of Ascension"
+    },
+    {
+      "prevText": "Vespers - Full (Lity and Loaves)",
+      "altText": "Vespers of Ascension - Full"
+    }
+  ],
+  "20190711": [
+    {
+      "prevText": "Vespers",
+      "altText": "Vespers - Menaion"
+    },
+    {
+      "prevText": "Vespers - Alternative Commemoration",
+      "altText": "Vespers - St Paisios of Athos"
+    },
+    {
+      "prevText": "Vespers - Alternative Full (Lity and Loaves)",
+      "altText": "Vespers - St Paisios of Athos (Lity and Loaves)"
+    }
+  ],
+  "20190712": [
+    {
+      "prevText": "Matins",
+      "altText": "Matins - Menaion"
+    },
+    {
+      "prevText": "Matins - Alternative Commemoration",
+      "altText": "Matins - St Paisios of Athos"
+    },
+    {
+      "prevText": "Matins - Alternative Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - St Paisios of Athos - Full"
+    },
+    {
+      "prevText": "Liturgy - Alternative Commemoration",
+      "altText": "Liturgy - St Paisios of Athos"
+    },
+    {
+      "prevText": "Liturgy - Alternative Variable Parts",
+      "altText": "Liturgy - St Paisios - Variable Parts"
+    }
+  ],
+  "20190719": [
+    {
+      "prevText": "Vespers - Alt. Version 8",
+      "altText": "Vespers for AGES Conference"
+    }
+  ],
+  "20190720": [
+    {
+      "prevText": "Matins - Alt. Version 8",
+      "altText": "Matins for AGES Conference"
+    },
+    {
+      "prevText": "Liturgy - Alt. Version 8",
+      "altText": "Liturgy for AGES Conference"
+    }
+  ],
+  "20190902": [
+    {
+      "prevText": "Vespers - Alternative Commemoration",
+      "altText": "Vespers - Relics of St Nektarios"
+    }
+  ],
+  "20190903": [
+    {
+      "prevText": "Matins - Alternative Commemoration",
+      "altText": "Matins - St Nektarios Relics"
+    },
+    {
+      "prevText": "Liturgy - Alternative Commemoration",
+      "altText": "Liturgy - St Nektarios Relics"
+    }
+  ],
+  "20190906": [
+    {
+      "prevText": "Vespers - Alternative Commemoration",
+      "altText": "Vespers - St Kassiani"
+    }
+  ],
+  "20190907": [
+    {
+      "prevText": "Matins - Alternative Commemoration",
+      "altText": "Matins - St Kassiani"
+    },
+    {
+      "prevText": "Liturgy - Alternative Commemoration",
+      "altText": "Liturgy - St Kassiani"
+    },
+    {
+      "prevText": "Liturgy - Alternative Variable Parts",
+      "altText": "Liturgy - St Kassiani - Variable Parts"
+    },
+    {
+      "prevText": "Vespers",
+      "altText": "Vespers - Birth of Theotokos"
+    }
+  ],
+  "20190930": [
+    {
+      "prevText": "Vespers",
+      "altText": "Vespers - Menaion"
+    },
+    {
+      "prevText": "Vespers - Alternative Commemoration",
+      "altText": "Vespers - Holy Protection"
+    },
+    {
+      "prevText": "Vespers - Alternative Full (Lity and Loaves)",
+      "altText": "Vespers - Holy Protection - Full"
+    }
+  ],
+  "20191001": [
+    {
+      "prevText": "Matins",
+      "altText": "Matins - Menaion"
+    },
+    {
+      "prevText": "Matins - Alternative Commemoration",
+      "altText": "Matins - Holy Protection"
+    },
+    {
+      "prevText": "Matins - Alternative Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - Holy Protection - Full"
+    },
+    {
+      "prevText": "Liturgy - Alternative Commemoration",
+      "altText": "Liturgy - Holy Protection"
+    },
+    {
+      "prevText": "Liturgy - Alternative Variable Parts",
+      "altText": "Liturgy - Holy Protection - Variable Parts"
+    }
+  ],
+  "20191019": [
+    {
+      "prevText": "Vespers",
+      "altText": "Vespers - St Artemios"
+    },
+    {
+      "prevText": "Vespers - Additional Commemoration",
+      "altText": "Vespers - Sts Artemios and Gerasimos"
+    },
+    {
+      "prevText": "Vespers - Alternative Commemoration",
+      "altText": "Vespers - St Gerasimos"
+    },
+    {
+      "prevText": "Vespers - Alternative Full (Lity and Loaves)",
+      "altText": "Vespers - St Gerasimos - Full"
+    }
+  ],
+  "20191020": [
+    {
+      "prevText": "Matins",
+      "altText": "Matins - St Artemios"
+    },
+    {
+      "prevText": "Matins - Additional Commemoration",
+      "altText": "Matins - Sts Artemios and Gerasimos"
+    },
+    {
+      "prevText": "Matins - Alternative Commemoration",
+      "altText": "Matins - St Gerasimos - Full"
+    },
+    {
+      "prevText": "Liturgy - Additional Commemoration",
+      "altText": "Liturgy - Sts Artemios and Gerasimos"
+    },
+    {
+      "prevText": "Liturgy - Additional Variable Parts",
+      "altText": "Liturgy - Sts Artemios and Gerasimos - Variables"
+    },
+    {
+      "prevText": "Liturgy - Alternative Commemoration",
+      "altText": "Liturgy - St Gerasimos"
+    },
+    {
+      "prevText": "Liturgy - Alternative Variable Parts",
+      "altText": "Liturgy - St Gerasimos - Variables"
+    }
+  ],
+  "20191108": [
+    {
+      "prevText": "Vespers",
+      "altText": "Vespers - Menaion"
+    },
+    {
+      "prevText": "Vespers - Alternative Commemoration",
+      "altText": "Vespers - St Nektarios"
+    },
+    {
+      "prevText": "Vespers - Alternative Full (Lity and Loaves)",
+      "altText": "Vespers - St Nektarios - Full (Lity and Loaves)"
+    }
+  ],
+  "20191109": [
+    {
+      "prevText": "Midnight Office",
+      "altText": "Midnight Office - St Nektarios"
+    },
+    {
+      "prevText": "Matins",
+      "altText": "Matins - Menaion"
+    },
+    {
+      "prevText": "Matins - Alternative Commemoration",
+      "altText": "Matins - St Nektarios"
+    },
+    {
+      "prevText": "Matins - Alternative Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - St Nektarios - Full (Psalter / Polyeleos / Canon)"
+    },
+    {
+      "prevText": "Divine Liturgy",
+      "altText": "Divine Liturgy - Menaion"
+    },
+    {
+      "prevText": "Liturgy - Variable Parts",
+      "altText": "Liturgy - Variable Parts - Menaion"
+    },
+    {
+      "prevText": "Liturgy - Alternative Commemoration",
+      "altText": "Liturgy - St. Nektarios"
+    },
+    {
+      "prevText": "Liturgy - Alternative Variable Parts",
+      "altText": "Liturgy - Variable Parts - St. Nektarios"
+    }
+  ],
+  "20191121": [
+    {
+      "prevText": "Vespers",
+      "altText": "Vespers - Menaion"
+    },
+    {
+      "prevText": "Vespers - Alternative Commemoration",
+      "altText": "Vespers - St Iakovos of Evia"
+    },
+    {
+      "prevText": "Vespers - Alternative Full (Lity and Loaves)",
+      "altText": "Vespers - St Iakovos - Full (Lity and Loaves)"
+    }
+  ],
+  "20191122": [
+    {
+      "prevText": "Matins",
+      "altText": "Matins - Menaion"
+    },
+    {
+      "prevText": "Matins - Alternative Commemoration",
+      "altText": "Matins - St Iakovos"
+    },
+    {
+      "prevText": "Matins - Alternative Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - St Iakovos - Full (Psalter / Polyeleos / Canon)"
+    },
+    {
+      "prevText": "Divine Liturgy",
+      "altText": "Divine Liturgy - Menaion"
+    },
+    {
+      "prevText": "Liturgy - Variable Parts",
+      "altText": "Liturgy - Menaion - Variable Parts"
+    },
+    {
+      "prevText": "Liturgy - Alternative Commemoration",
+      "altText": "Liturgy - St Iakovos"
+    },
+    {
+      "prevText": "Liturgy - Alternative Variable Parts",
+      "altText": "Liturgy - St Iakovos - Variable Parts"
+    }
+  ],
+  "20191201": [
+    {
+      "prevText": "Vespers",
+      "altText": "Vespers - Menaion"
+    },
+    {
+      "prevText": "Vespers - Alternative Commemoration",
+      "altText": "Vespers - St Porphyrios"
+    },
+    {
+      "prevText": "Vespers - Alternative Full (Lity and Loaves)",
+      "altText": "Vespers - St Porphyrios - Full (Lity and Loaves)"
+    }
+  ],
+  "20191202": [
+    {
+      "prevText": "Matins",
+      "altText": "Matins - Menaion"
+    },
+    {
+      "prevText": "Matins - Alternative Commemoration",
+      "altText": "Matins - St Porphyrios"
+    },
+    {
+      "prevText": "Matins - Alternative Full (Psalter / Polyeleos / Canon)",
+      "altText": "Matins - St Porphyrios - Full (Psalter / Polyeleos / Canon)"
+    },
+    {
+      "prevText": "Divine Liturgy",
+      "altText": "Liturgy - Menaion"
+    },
+    {
+      "prevText": "Liturgy - Variable Parts",
+      "altText": "Liturgy - Menaion - Variable Parts"
+    },
+    {
+      "prevText": "Liturgy - Alternative Commemoration",
+      "altText": "Liturgy - St Porphyrios"
+    },
+    {
+      "prevText": "Liturgy - Alternative Variable Parts",
+      "altText": "Liturgy - St Porphyrios - Variable Parts"
+    }
+  ],
+  "20191216": [
+    {
+      "prevText": "Vespers",
+      "altText": "Vespers - Menaion"
+    },
+    {
+      "prevText": "Vespers - Alternative Commemoration",
+      "altText": "Vespers - St Dionysios"
+    },
+    {
+      "prevText": "Vespers - Alternative Full (Lity and Loaves)",
+      "altText": "Vespers - St Dionysios - Full (Lity and Loaves)"
+    }
+  ],
+  "20191217": [
+    {
+      "prevText": "Matins",
+      "altText": "Matins - Menaion"
+    },
+    {
+      "prevText": "Matins - Alternative Commemoration",
+      "altText": "Matins - St Dionysios"
+    },
+    {
+      "prevText": "Divine Liturgy",
+      "altText": "Liturgy - Menaion"
+    },
+    {
+      "prevText": "Liturgy - Variable Parts",
+      "altText": "Liturgy - Menaion - Variable Parts"
+    },
+    {
+      "prevText": "Liturgy - Alternative Commemoration",
+      "altText": "Liturgy - St Dionysios"
+    },
+    {
+      "prevText": "Liturgy - Alternative Variable Parts",
+      "altText": "Liturgy - St Dionysios - Variable Parts"
+    }
+  ]
+}
