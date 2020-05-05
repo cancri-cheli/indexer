@@ -24,4 +24,4 @@ where,
 - /h/ = html
 - /p/ = pdf
 
-
+Note: the code in this repository will be merged into Doxa and this repository will then be deleted.
