@@ -3,8 +3,8 @@ Golang program to index liturgical websites
 
 Creates the following indexes:
 
-/dcs/public/dcs/booksindex.html
-/dcs/public/dcs/servicesindex.html
+- /dcs/public/dcs/booksindex.html
+- /dcs/public/dcs/servicesindex.html
 
 And, for each year/month/day, creates day indexes in:
 
