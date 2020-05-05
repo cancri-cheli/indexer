@@ -10,12 +10,12 @@ And, for each year/month/day, creates day indexes in:
 
 - /dcs/public/dcs/indexes
 
-The booksindex.html file indexes:
+The booksindex.html file an index of:
 
 - /dcs/public/dcs/h/b
 - /dcs/public/dcs/p/b
 
-The servicesindex.html file indexes:
+The servicesindex.html file an index of:
 
 - /dcs/public/dcs/h/s
 - /dcs/public/dcs/p/s
